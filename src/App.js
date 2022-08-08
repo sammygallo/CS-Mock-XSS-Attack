@@ -12,7 +12,7 @@ const App = () => {
       text: "Never stop killing it",
       image: "https://www.placecage.com/c/200/300"
     }
-  ]);
+  ]); 
   const [task, setTask] = useState({
     text: "",
     image: ""
